@@ -6,6 +6,8 @@ public class Proyectojorgevanesa {
         System.out.println("Hola");
         
         System.out.println("Cambio");
+        
+        System.out.println("Cambio2");
     }
     
 }
